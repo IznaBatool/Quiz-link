@@ -4,13 +4,13 @@ Node.js must be installed on your machine
 ## Project setup
 ```
 npm install
-Npm automatically includes all the dependencies used in the project
+//Npm automatically includes all the dependencies used in the project
 ```
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
-This command run project locally on machine
+//This command run project locally on machine
 ```
 
 ### Compiles and minifies for production
